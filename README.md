@@ -1,9 +1,2 @@
-- 👋 Hi, I’m @dom1torii
-- 👀 I’m interested in Web and App developement
-- 🌱 I’m currently learning Html, Css, Python, C# and more
-- 📫 How to reach me: [www.domitori.live](www.domitori.live)
-
-<!---
-dom1torii/dom1torii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+@dom1torii
+![1644267654_2-abrakadabra-fun-p-beskonechnoe-leto-foni-na-rabochii-stol-2](https://user-images.githubusercontent.com/84600518/199843897-6ab07711-dc83-458c-811b-9d5555bbf1f3.jpg)
