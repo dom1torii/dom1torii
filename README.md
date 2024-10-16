@@ -12,3 +12,7 @@
 * <img src="https://raw.githubusercontent.com/dom1torii/dom1torii/main/tailwind.svg" width="15px"> Tailwind CSS   
 * <img src="https://raw.githubusercontent.com/dom1torii/dom1torii/main/javascript.svg" width="15px"> JavaScript  
 * <img src="https://raw.githubusercontent.com/dom1torii/dom1torii/main/react.svg" width="15px"> ReactJS
+
+### Additional Skills:
+* <img src="https://raw.githubusercontent.com/dom1torii/dom1torii/main/tux.svg" width="15px"> Linux
+* <img src="https://raw.githubusercontent.com/dom1torii/dom1torii/main/nginx.svg" width="15px"> Nginx
