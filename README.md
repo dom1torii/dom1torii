@@ -1,5 +1,7 @@
 ## Web developer from 🇪🇪 Estonia.
 
+I like making websites and ricing my linux, thats all
+
 #### [My Website](https://www.domitori.xyz/)
 
 ### Main Projects:
