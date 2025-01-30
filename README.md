@@ -4,9 +4,6 @@ I like making websites and ricing my linux, thats all
 
 #### [My Website](https://www.domitori.xyz/)
 
-### Main Projects:
-* [Valorant Builder](https://www.valorantbuilder.com/)  
-
 ### Stuff I know:  
 * <img src="https://raw.githubusercontent.com/dom1torii/dom1torii/main/html.svg" width="15px"> HTML  
 * <img src="https://raw.githubusercontent.com/dom1torii/dom1torii/main/css.svg" width="15px"> CSS
