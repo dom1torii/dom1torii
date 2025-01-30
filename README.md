@@ -6,7 +6,6 @@ I like making websites and ricing my linux, thats all
 
 ### Main Projects:
 * [Valorant Builder](https://www.valorantbuilder.com/)  
-* [CSInventory](https://csinventory.net) (WIP)
 
 ### Stuff I know:  
 * <img src="https://raw.githubusercontent.com/dom1torii/dom1torii/main/html.svg" width="15px"> HTML  
