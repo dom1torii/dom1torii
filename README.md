@@ -3,7 +3,7 @@
 I like making websites and ricing my linux, thats all
 
 #### [My Website](https://www.domitori.xyz/)
-Currently working on [cs2cfg](cs2cfg.com)
+Currently working on [cs2cfg](https://cs2cfg.com/)
 
 ### Stuff I know:  
 * <img src="https://raw.githubusercontent.com/dom1torii/dom1torii/main/html.svg" width="15px"> HTML  
